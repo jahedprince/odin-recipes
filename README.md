@@ -1,3 +1,3 @@
 # odin-recipes
 
-A toy HTML website for showcasing recipes for my favorite foods.
+A toy HTML website showcasing recipes for my favorite foods.
